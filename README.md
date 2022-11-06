@@ -1,5 +1,5 @@
 ### Привет 👋, меня зовут Nikita
-#### Я работаю над проектом SayoriOS
+#### Я работаю над проектом [SayoriOS](https://github.com/pimnik98/SayoriOS) | [SayoriSDK](https://github.com/pimnik98/SayoriSDK)
 
 ![Profile views](https://gpvc.arturio.dev/pimnik98)  
 
